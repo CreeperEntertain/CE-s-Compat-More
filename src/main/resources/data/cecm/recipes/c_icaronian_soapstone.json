@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:soapstone"
+    }
+  },
+  "result": {
+    "item": "cecm:icaronian_soapstone_pallet",
+    "count": 1
+  }
+}

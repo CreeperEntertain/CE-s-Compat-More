@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:metatorbernite"
+    }
+  },
+  "result": {
+    "item": "cecm:torbernite_pallet",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:washed_gravel"
+    }
+  },
+  "result": {
+    "item": "cecm:washed_gravel_bag",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cecm:cobbled_dark_andesite_crate"
+    }
+  },
+  "result": {
+    "item": "cemm:cobbled_dark_andesite",
+    "count": 9
+  }
+}

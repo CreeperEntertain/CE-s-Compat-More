@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cecm:minium_pallet"
+    }
+  },
+  "result": {
+    "item": "cemm:minium",
+    "count": 9
+  }
+}

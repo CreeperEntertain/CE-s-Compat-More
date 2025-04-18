@@ -1,0 +1,14 @@
+{
+  "mappings": {
+    "default": {
+      "map": {
+        "bag_side.png": "bag_side",
+        "bag_bottom.png": "bag_bottom",
+        "bag_side_tied.png": "bag_side_tied",
+        "PILE": "basalt_sand_pile",
+        "bag_top.png": "bag_top"
+      },
+      "name": "default"
+    }
+  }
+}

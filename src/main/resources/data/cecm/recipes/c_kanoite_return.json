@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cecm:kanoite_pallet"
+    }
+  },
+  "result": {
+    "item": "cemm:kanoite",
+    "count": 9
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cecm:cobbled_junglerock_crate"
+    }
+  },
+  "result": {
+    "item": "cecm:reinforced_cobbled_junglerock_crate",
+    "count": 1
+  }
+}

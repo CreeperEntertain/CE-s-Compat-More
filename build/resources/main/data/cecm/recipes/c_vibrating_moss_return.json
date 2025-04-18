@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cecm:vibrating_moss_bag"
+    }
+  },
+  "result": {
+    "item": "cemm:vibrating_moss",
+    "count": 9
+  }
+}

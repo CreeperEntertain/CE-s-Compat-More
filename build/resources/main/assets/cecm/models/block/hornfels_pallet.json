@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cecm:block/pallet_bottom",
+    "up": "cecm:block/hornfels_pallet_top",
+    "north": "cecm:block/hornfels_pallet_side",
+    "east": "cecm:block/hornfels_pallet_side",
+    "south": "cecm:block/hornfels_pallet_side",
+    "west": "cecm:block/hornfels_pallet_side",
+    "particle": "cecm:block/pallet_bottom"
+  },
+  "render_type": "solid"
+}

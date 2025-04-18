@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cecm:olivine_pallet"
+    }
+  },
+  "result": {
+    "item": "cemm:olivine",
+    "count": 9
+  }
+}

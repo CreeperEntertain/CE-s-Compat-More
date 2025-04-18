@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cecm:monzonite_pallet"
+    }
+  },
+  "result": {
+    "item": "cemm:monzonite",
+    "count": 9
+  }
+}

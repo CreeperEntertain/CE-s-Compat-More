@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:chronocrystal_block"
+    }
+  },
+  "result": {
+    "item": "cecm:chronocrystal_pallet",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:rocky_stone"
+    }
+  },
+  "result": {
+    "item": "cecm:rocky_stone_pallet",
+    "count": 1
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cecm:burnt_clay_pallet"
+    }
+  },
+  "result": {
+    "item": "cemm:burnt_clay_block",
+    "count": 9
+  }
+}

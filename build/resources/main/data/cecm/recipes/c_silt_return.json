@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cecm:silt_bag"
+    }
+  },
+  "result": {
+    "item": "cemm:silt",
+    "count": 9
+  }
+}

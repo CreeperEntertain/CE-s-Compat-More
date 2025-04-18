@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:cesium_block"
+    }
+  },
+  "result": {
+    "item": "cecm:cesium_pallet",
+    "count": 1
+  }
+}

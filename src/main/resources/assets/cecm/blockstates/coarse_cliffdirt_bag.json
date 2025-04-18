@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "cecm:block/coarse_cliffdirt_bag"
+    }
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cecm:silt_soil_bag"
+    }
+  },
+  "result": {
+    "item": "cemm:silt_soil",
+    "count": 9
+  }
+}

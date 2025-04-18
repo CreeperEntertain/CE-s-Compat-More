@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "architects_palette:nether_brass_ingot"
+    }
+  },
+  "result": {
+    "item": "cemm:brass_tile",
+    "count": 1
+  }
+}

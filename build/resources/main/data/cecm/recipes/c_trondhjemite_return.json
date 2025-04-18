@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cecm:trondhjemite_pallet"
+    }
+  },
+  "result": {
+    "item": "cemm:trondhjemite",
+    "count": 9
+  }
+}

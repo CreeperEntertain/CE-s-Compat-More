@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cecm:lead_pallet"
+    }
+  },
+  "result": {
+    "item": "cemm:lead_block",
+    "count": 9
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cecm:warpstone_pallet"
+    }
+  },
+  "result": {
+    "item": "cemm:warpstone",
+    "count": 9
+  }
+}

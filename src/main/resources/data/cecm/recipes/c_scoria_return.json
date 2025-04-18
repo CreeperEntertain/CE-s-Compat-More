@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cecm:scoria_pallet"
+    }
+  },
+  "result": {
+    "item": "cemm:scoria",
+    "count": 9
+  }
+}

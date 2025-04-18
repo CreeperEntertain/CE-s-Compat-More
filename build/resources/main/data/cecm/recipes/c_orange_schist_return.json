@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cecm:orange_schist_pallet"
+    }
+  },
+  "result": {
+    "item": "cemm:orange_schist",
+    "count": 9
+  }
+}

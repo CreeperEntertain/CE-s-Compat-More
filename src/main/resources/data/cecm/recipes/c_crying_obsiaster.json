@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:crysing_obsiaster"
+    }
+  },
+  "result": {
+    "item": "cecm:crying_obsiaster_crate",
+    "count": 1
+  }
+}

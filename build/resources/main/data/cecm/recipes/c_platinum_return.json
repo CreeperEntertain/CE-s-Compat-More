@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cecm:platinum_pallet"
+    }
+  },
+  "result": {
+    "item": "cemm:platinum_block",
+    "count": 9
+  }
+}

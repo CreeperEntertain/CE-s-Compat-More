@@ -1,0 +1,13 @@
+{
+  "parent": "cecm:custom/alabastersandbag",
+  "textures": {
+    "all": "cecm:block/alabaster_sand_pile",
+    "particle": "cecm:block/alabaster_sand_pile",
+    "bag_side.png": "cecm:block/bag_side",
+    "bag_bottom.png": "cecm:block/bag_bottom",
+    "bag_side_tied.png": "cecm:block/bag_side_tied",
+    "alabaster_sand_pile.png": "cecm:block/alabaster_sand_pile",
+    "bag_top.png": "cecm:block/bag_top"
+  },
+  "render_type": "solid"
+}

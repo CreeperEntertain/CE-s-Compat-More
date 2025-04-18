@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:orange_marble"
+    }
+  },
+  "result": {
+    "item": "cecm:orange_marble_pallet",
+    "count": 1
+  }
+}

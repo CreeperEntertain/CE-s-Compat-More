@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:slate"
+    }
+  },
+  "result": {
+    "item": "cecm:slate_pallet",
+    "count": 1
+  }
+}

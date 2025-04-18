@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cecm:cliffgravel_bag"
+    }
+  },
+  "result": {
+    "item": "cemm:cliffgravel",
+    "count": 9
+  }
+}

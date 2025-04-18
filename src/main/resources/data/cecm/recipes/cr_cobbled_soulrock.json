@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cecm:cobbled_soulrock_crate"
+    }
+  },
+  "result": {
+    "item": "cecm:reinforced_cobbled_soulrock_crate",
+    "count": 1
+  }
+}

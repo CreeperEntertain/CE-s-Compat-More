@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cecm:alabaster_pallet"
+    }
+  },
+  "result": {
+    "item": "cemm:alabaster",
+    "count": 9
+  }
+}

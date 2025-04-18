@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cecm:cobalt_pallet"
+    }
+  },
+  "result": {
+    "item": "cemm:cobalt_block",
+    "count": 9
+  }
+}

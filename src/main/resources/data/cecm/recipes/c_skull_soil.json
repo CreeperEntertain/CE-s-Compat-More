@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:skull_soil"
+    }
+  },
+  "result": {
+    "item": "cecm:skull_soil_bag",
+    "count": 1
+  }
+}

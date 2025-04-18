@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:mountain_quartz_block"
+    }
+  },
+  "result": {
+    "item": "cecm:mountain_quartz_pallet",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cecm:dirty_mud_bag"
+    }
+  },
+  "result": {
+    "item": "cemm:dirty_mud",
+    "count": 9
+  }
+}

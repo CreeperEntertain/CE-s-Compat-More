@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:end_wax_block"
+    }
+  },
+  "result": {
+    "item": "cecm:end_wax_pallet",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:bismuthinite"
+    }
+  },
+  "result": {
+    "item": "cecm:bismuthinite_crate",
+    "count": 1
+  }
+}

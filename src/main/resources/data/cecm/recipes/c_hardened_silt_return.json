@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cecm:hardened_silt_pallet"
+    }
+  },
+  "result": {
+    "item": "cemm:hardened_silt",
+    "count": 9
+  }
+}

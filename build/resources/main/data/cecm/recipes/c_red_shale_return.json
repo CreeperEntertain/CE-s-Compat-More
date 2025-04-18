@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cecm:red_shale_pallet"
+    }
+  },
+  "result": {
+    "item": "cemm:red_shale",
+    "count": 9
+  }
+}

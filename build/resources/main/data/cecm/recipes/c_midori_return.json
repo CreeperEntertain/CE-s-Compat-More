@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cecm:midori_pallet"
+    }
+  },
+  "result": {
+    "item": "cemm:midori",
+    "count": 9
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:beryllium_block"
+    }
+  },
+  "result": {
+    "item": "cecm:beryllium_pallet",
+    "count": 1
+  }
+}

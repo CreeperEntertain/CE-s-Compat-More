@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cecm:meta_carbonite_pallet"
+    }
+  },
+  "result": {
+    "item": "cemm:meta_carbonite",
+    "count": 9
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cecm:rocky_dark_andesite_pallet"
+    }
+  },
+  "result": {
+    "item": "cemm:rocky_dark_andesite",
+    "count": 9
+  }
+}

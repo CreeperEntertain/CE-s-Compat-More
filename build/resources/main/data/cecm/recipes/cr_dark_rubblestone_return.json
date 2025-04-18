@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cecm:reinforced_dark_rubblestone_crate"
+    }
+  },
+  "result": {
+    "item": "cecm:dark_rubblestone_crate",
+    "count": 9
+  }
+}

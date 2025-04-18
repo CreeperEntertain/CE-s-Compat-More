@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:black_marble"
+    }
+  },
+  "result": {
+    "item": "cecm:black_marble_pallet",
+    "count": 1
+  }
+}

@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "cecm:block/packed_mud_pallet"
+    }
+  }
+}

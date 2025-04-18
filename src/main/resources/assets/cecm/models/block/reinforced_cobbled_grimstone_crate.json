@@ -1,0 +1,12 @@
+{
+  "parent": "cecm:custom/reinforcedcobbledgrimstonecrate",
+  "textures": {
+    "all": "cecm:block/cobbled_grimstone_pile",
+    "particle": "cecm:block/cobbled_grimstone_pile",
+    "crate_bottom.png": "cecm:block/reinforced_crate_bottom",
+    "crate_side.png": "cecm:block/reinforced_crate_side",
+    "crate_top.png": "cecm:block/reinforced_crate_top",
+    "PILE": "cecm:block/cobbled_grimstone_pile"
+  },
+  "render_type": "cutout_mipped"
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:raw_kyanite"
+    }
+  },
+  "result": {
+    "item": "cecm:kyanite_pallet",
+    "count": 1
+  }
+}

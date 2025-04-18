@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cecm:tan_shale_pallet"
+    }
+  },
+  "result": {
+    "item": "cemm:tane_shale",
+    "count": 9
+  }
+}

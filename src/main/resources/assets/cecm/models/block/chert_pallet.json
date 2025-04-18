@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cecm:block/pallet_bottom",
+    "up": "cecm:block/chert_pallet_top",
+    "north": "cecm:block/chert_pallet_side",
+    "east": "cecm:block/chert_pallet_side",
+    "south": "cecm:block/chert_pallet_side",
+    "west": "cecm:block/chert_pallet_side",
+    "particle": "cecm:block/pallet_bottom"
+  },
+  "render_type": "solid"
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cecm:lithiophilite_pallet"
+    }
+  },
+  "result": {
+    "item": "cemm:lithiophilite",
+    "count": 9
+  }
+}

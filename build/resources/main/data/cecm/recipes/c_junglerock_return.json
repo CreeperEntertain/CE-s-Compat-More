@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cecm:junglerock_pallet"
+    }
+  },
+  "result": {
+    "item": "cemm:junglerock",
+    "count": 9
+  }
+}

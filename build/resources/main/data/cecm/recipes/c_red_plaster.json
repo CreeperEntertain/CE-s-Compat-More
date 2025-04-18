@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:red_plaster"
+    }
+  },
+  "result": {
+    "item": "cecm:red_plaster_pallet",
+    "count": 1
+  }
+}

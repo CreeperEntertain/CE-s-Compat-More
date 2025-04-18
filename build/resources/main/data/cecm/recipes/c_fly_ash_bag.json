@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:fly_ash"
+    }
+  },
+  "result": {
+    "item": "cecm:fly_ash_bag",
+    "count": 1
+  }
+}

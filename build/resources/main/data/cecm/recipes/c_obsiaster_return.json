@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cecm:obsiaster_crate"
+    }
+  },
+  "result": {
+    "item": "cemm:obsiaster",
+    "count": 9
+  }
+}

@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:salt"
+    }
+  },
+  "result": {
+    "item": "meadow:alpine_salt",
+    "count": 1
+  }
+}

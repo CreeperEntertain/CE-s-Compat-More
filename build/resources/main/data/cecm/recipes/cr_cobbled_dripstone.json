@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cecm:cobbled_dripstone_crate"
+    }
+  },
+  "result": {
+    "item": "cecm:reinforced_cobbled_dripstone_crate",
+    "count": 1
+  }
+}

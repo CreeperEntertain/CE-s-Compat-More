@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cecm:hyaloclastite_pallet"
+    }
+  },
+  "result": {
+    "item": "cemm:hyaloclastite",
+    "count": 9
+  }
+}

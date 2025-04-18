@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cecm:solidified_oil_crate"
+    }
+  },
+  "result": {
+    "item": "cecm:reinforced_solidified_oil_crate",
+    "count": 1
+  }
+}

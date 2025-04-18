@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:grimstone"
+    }
+  },
+  "result": {
+    "item": "cecm:grimstone_pallet",
+    "count": 1
+  }
+}

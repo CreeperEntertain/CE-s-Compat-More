@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:bordeaux_moss"
+    }
+  },
+  "result": {
+    "item": "cecm:bordeaux_moss_bag",
+    "count": 1
+  }
+}

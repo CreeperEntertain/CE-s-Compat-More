@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cecm:rough_marble_pallet"
+    }
+  },
+  "result": {
+    "item": "cemm:rough_marble",
+    "count": 9
+  }
+}

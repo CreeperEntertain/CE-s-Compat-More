@@ -1,0 +1,12 @@
+{
+  "parent": "cecm:custom/cobbledbloodstonecrate",
+  "textures": {
+    "all": "cecm:block/cobbled_bloodstone_pile",
+    "particle": "cecm:block/cobbled_bloodstone_pile",
+    "crate_bottom.png": "cecm:block/crate_bottom",
+    "crate_side.png": "cecm:block/crate_side",
+    "crate_top.png": "cecm:block/crate_top",
+    "PILE": "cecm:block/cobbled_bloodstone_pile"
+  },
+  "render_type": "cutout_mipped"
+}

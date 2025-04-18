@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cecm:umber_shale_pallet"
+    }
+  },
+  "result": {
+    "item": "cemm:umber_shale",
+    "count": 9
+  }
+}

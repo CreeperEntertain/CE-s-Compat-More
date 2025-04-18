@@ -1,0 +1,13 @@
+{
+  "parent": "cecm:custom/frozensandbag",
+  "textures": {
+    "all": "cecm:block/frozen_sand_pile",
+    "particle": "cecm:block/frozen_sand_pile",
+    "bag_side.png": "cecm:block/bag_side",
+    "bag_bottom.png": "cecm:block/bag_bottom",
+    "bag_side_tied.png": "cecm:block/bag_side_tied",
+    "PILE": "cecm:block/frozen_sand_pile",
+    "bag_top.png": "cecm:block/bag_top"
+  },
+  "render_type": "solid"
+}

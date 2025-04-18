@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:kenhsuite"
+    }
+  },
+  "result": {
+    "item": "cecm:kenhsuite_pallet",
+    "count": 1
+  }
+}

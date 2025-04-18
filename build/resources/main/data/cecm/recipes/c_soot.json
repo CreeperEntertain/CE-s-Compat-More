@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:soot"
+    }
+  },
+  "result": {
+    "item": "cecm:soot_bag",
+    "count": 1
+  }
+}

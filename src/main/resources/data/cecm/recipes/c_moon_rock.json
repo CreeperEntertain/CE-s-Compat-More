@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:moon_rock"
+    }
+  },
+  "result": {
+    "item": "cecm:moon_rock_pallet",
+    "count": 1
+  }
+}

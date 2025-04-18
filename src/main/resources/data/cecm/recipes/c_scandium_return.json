@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cecm:scandium_pallet"
+    }
+  },
+  "result": {
+    "item": "cemm:scandium_block",
+    "count": 9
+  }
+}

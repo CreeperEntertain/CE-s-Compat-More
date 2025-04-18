@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cecm:citrine_pallet"
+    }
+  },
+  "result": {
+    "item": "cemm:raw_citrine",
+    "count": 9
+  }
+}

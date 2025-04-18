@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:rubblestone"
+    }
+  },
+  "result": {
+    "item": "cecm:rubblestone_crate",
+    "count": 1
+  }
+}

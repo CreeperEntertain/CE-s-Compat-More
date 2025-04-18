@@ -1,0 +1,13 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "cecm:block/pallet_bottom",
+    "up": "cecm:block/warpstone_pallet_top",
+    "north": "cecm:block/warpstone_pallet_side",
+    "east": "cecm:block/warpstone_pallet_side",
+    "south": "cecm:block/warpstone_pallet_side",
+    "west": "cecm:block/warpstone_pallet_side",
+    "particle": "cecm:block/pallet_bottom"
+  },
+  "render_type": "solid"
+}

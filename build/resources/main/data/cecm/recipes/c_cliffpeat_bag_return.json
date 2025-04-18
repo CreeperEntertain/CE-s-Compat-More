@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cecm:cliffpeat_bag"
+    }
+  },
+  "result": {
+    "item": "cemm:cliffpeat",
+    "count": 9
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:white_granite"
+    }
+  },
+  "result": {
+    "item": "cecm:white_granite_pallet",
+    "count": 1
+  }
+}

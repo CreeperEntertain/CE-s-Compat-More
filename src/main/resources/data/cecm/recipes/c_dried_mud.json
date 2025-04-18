@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:dried_mud"
+    }
+  },
+  "result": {
+    "item": "cecm:dried_mud_pallet",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:pyroxene"
+    }
+  },
+  "result": {
+    "item": "cecm:pyroxene_pallet",
+    "count": 1
+  }
+}

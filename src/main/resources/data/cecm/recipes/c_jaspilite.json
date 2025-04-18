@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "cemm:jaspilite"
+    }
+  },
+  "result": {
+    "item": "cecm:jaspilite_pallet",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "aaa",
+    "aaa",
+    "aaa"
+  ],
+  "key": {
+    "a": {
+      "item": "minecraft:crying_obsidian"
+    }
+  },
+  "result": {
+    "item": "cecm:crying_obsidian_pallet",
+    "count": 1
+  }
+}

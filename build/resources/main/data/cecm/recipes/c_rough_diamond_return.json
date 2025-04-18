@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "a"
+  ],
+  "key": {
+    "a": {
+      "item": "cecm:rough_diamond_pallet"
+    }
+  },
+  "result": {
+    "item": "cemm:rough_diamond_block",
+    "count": 9
+  }
+}
